@@ -11,10 +11,9 @@ public:
             else if(sum > target)
             {
                 j--;
-                continue;
             }
             else i++;
         }
-        return {0,0};
+        return {};
     }
 };
