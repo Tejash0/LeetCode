@@ -8,11 +8,7 @@ public:
     
     void push(int val) {
         s1.push(val);
-        if(min.empty())
-        {
-            min.push(val);
-        }
-        else if(min.top() > val)
+        if(min.empty() || min.top() > val)
         {
             min.push(val);
         }
