@@ -18,6 +18,7 @@
 | [0020-valid-parentheses](https://github.com/Tejash0/LeetCode/tree/master/0020-valid-parentheses) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/Tejash0/LeetCode/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0155-min-stack](https://github.com/Tejash0/LeetCode/tree/master/0155-min-stack) |
+| [0739-daily-temperatures](https://github.com/Tejash0/LeetCode/tree/master/0739-daily-temperatures) |
 ## Array
 |  |
 | ------- |
@@ -25,6 +26,7 @@
 | [0128-longest-consecutive-sequence](https://github.com/Tejash0/LeetCode/tree/master/0128-longest-consecutive-sequence) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/Tejash0/LeetCode/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Tejash0/LeetCode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0739-daily-temperatures](https://github.com/Tejash0/LeetCode/tree/master/0739-daily-temperatures) |
 ## Hash Table
 |  |
 | ------- |
@@ -52,4 +54,8 @@
 |  |
 | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/Tejash0/LeetCode/tree/master/0128-longest-consecutive-sequence) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0739-daily-temperatures](https://github.com/Tejash0/LeetCode/tree/master/0739-daily-temperatures) |
 <!---LeetCode Topics End-->
