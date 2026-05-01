@@ -11,30 +11,38 @@
 class Solution {
 public:
     void reorderList(ListNode* head) {
-        ListNode *ptr = head;
-        ListNode *temp = head;
-        bool check = true;
-    
-        while(check == true)
+        ListNode* slow = head;
+        ListNode* fast;
+        if(head == NULL || head->next == NULL)
+            return;
+        fast = head->next;
+        while(fast != NULL && fast->next != NULL)
         {
-            if(head == NULL || head->next == NULL)
-                return;
-            if(head->next == NULL)
-                return;
-            if(ptr->next != NULL)
-            {
-                temp = ptr;
-                ptr = ptr->next;
-            }
-            else if(ptr->next == NULL)
-            {
-                temp->next = NULL;
-                temp = head->next;
-                head->next = ptr;
-                ptr->next = temp;
-                head = temp;
-                ptr = temp;
-            }
-        } 
+            slow = slow->next;
+            fast = fast->next->next;
+        }
+
+        ListNode* second;
+        second = slow->next;
+        slow->next = NULL;
+        ListNode* prev = NULL;
+        ListNode* temp;
+        while(second != NULL)
+        {
+            temp = second;
+            second = second->next;
+            temp->next = prev;
+            prev = temp;
+        }
+
+        while(prev != NULL)
+        {
+            temp = head->next;
+            head->next = prev;
+            head = temp;
+            temp = prev->next;
+            prev->next = head;
+            prev = temp;
+        }
     }
 };
