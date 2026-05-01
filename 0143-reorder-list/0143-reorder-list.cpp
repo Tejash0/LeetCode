@@ -21,28 +21,25 @@ public:
             slow = slow->next;
             fast = fast->next->next;
         }
-
-        ListNode* second;
-        second = slow->next;
+        fast = slow->next;
         slow->next = NULL;
         ListNode* prev = NULL;
-        ListNode* temp;
-        while(second != NULL)
+        while(fast != NULL)
         {
-            temp = second;
-            second = second->next;
-            temp->next = prev;
-            prev = temp;
+            slow = fast;
+            fast = fast->next;
+            slow->next = prev;
+            prev = slow;
         }
 
         while(prev != NULL)
         {
-            temp = head->next;
+            slow = head->next;
             head->next = prev;
-            head = temp;
-            temp = prev->next;
+            head = slow;
+            slow = prev->next;
             prev->next = head;
-            prev = temp;
+            prev = slow;
         }
     }
 };
