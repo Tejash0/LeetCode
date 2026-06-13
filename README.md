@@ -31,6 +31,7 @@
 ## Array
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/Tejash0/LeetCode/tree/master/0001-two-sum) |
 | [0004-median-of-two-sorted-arrays](https://github.com/Tejash0/LeetCode/tree/master/0004-median-of-two-sorted-arrays) |
 | [0011-container-with-most-water](https://github.com/Tejash0/LeetCode/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/Tejash0/LeetCode/tree/master/0015-3sum) |
@@ -46,6 +47,7 @@
 ## Hash Table
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/Tejash0/LeetCode/tree/master/0001-two-sum) |
 | [0013-roman-to-integer](https://github.com/Tejash0/LeetCode/tree/master/0013-roman-to-integer) |
 | [0036-valid-sudoku](https://github.com/Tejash0/LeetCode/tree/master/0036-valid-sudoku) |
 | [0128-longest-consecutive-sequence](https://github.com/Tejash0/LeetCode/tree/master/0128-longest-consecutive-sequence) |
