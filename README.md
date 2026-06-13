@@ -23,6 +23,7 @@
 | [0020-valid-parentheses](https://github.com/Tejash0/LeetCode/tree/master/0020-valid-parentheses) |
 | [0049-group-anagrams](https://github.com/Tejash0/LeetCode/tree/master/0049-group-anagrams) |
 | [0125-valid-palindrome](https://github.com/Tejash0/LeetCode/tree/master/0125-valid-palindrome) |
+| [0242-valid-anagram](https://github.com/Tejash0/LeetCode/tree/master/0242-valid-anagram) |
 ## Stack
 |  |
 | ------- |
@@ -68,6 +69,7 @@
 | [0128-longest-consecutive-sequence](https://github.com/Tejash0/LeetCode/tree/master/0128-longest-consecutive-sequence) |
 | [0141-linked-list-cycle](https://github.com/Tejash0/LeetCode/tree/master/0141-linked-list-cycle) |
 | [0217-contains-duplicate](https://github.com/Tejash0/LeetCode/tree/master/0217-contains-duplicate) |
+| [0242-valid-anagram](https://github.com/Tejash0/LeetCode/tree/master/0242-valid-anagram) |
 ## Matrix
 |  |
 | ------- |
@@ -112,6 +114,7 @@
 | [0016-3sum-closest](https://github.com/Tejash0/LeetCode/tree/master/0016-3sum-closest) |
 | [0049-group-anagrams](https://github.com/Tejash0/LeetCode/tree/master/0049-group-anagrams) |
 | [0217-contains-duplicate](https://github.com/Tejash0/LeetCode/tree/master/0217-contains-duplicate) |
+| [0242-valid-anagram](https://github.com/Tejash0/LeetCode/tree/master/0242-valid-anagram) |
 | [0883-car-fleet](https://github.com/Tejash0/LeetCode/tree/master/0883-car-fleet) |
 ## Dynamic Programming
 |  |
