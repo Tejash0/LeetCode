@@ -61,6 +61,7 @@
 ## Math
 |  |
 | ------- |
+| [0009-palindrome-number](https://github.com/Tejash0/LeetCode/tree/master/0009-palindrome-number) |
 | [0013-roman-to-integer](https://github.com/Tejash0/LeetCode/tree/master/0013-roman-to-integer) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/Tejash0/LeetCode/tree/master/0150-evaluate-reverse-polish-notation) |
 ## Binary Search
