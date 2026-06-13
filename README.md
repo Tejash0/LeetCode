@@ -31,6 +31,7 @@
 ## Array
 |  |
 | ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/Tejash0/LeetCode/tree/master/0004-median-of-two-sorted-arrays) |
 | [0011-container-with-most-water](https://github.com/Tejash0/LeetCode/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/Tejash0/LeetCode/tree/master/0015-3sum) |
 | [0036-valid-sudoku](https://github.com/Tejash0/LeetCode/tree/master/0036-valid-sudoku) |
@@ -61,6 +62,7 @@
 ## Binary Search
 |  |
 | ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/Tejash0/LeetCode/tree/master/0004-median-of-two-sorted-arrays) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Tejash0/LeetCode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0792-binary-search](https://github.com/Tejash0/LeetCode/tree/master/0792-binary-search) |
 ## Design
@@ -103,4 +105,8 @@
 | ------- |
 | [0021-merge-two-sorted-lists](https://github.com/Tejash0/LeetCode/tree/master/0021-merge-two-sorted-lists) |
 | [0143-reorder-list](https://github.com/Tejash0/LeetCode/tree/master/0143-reorder-list) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/Tejash0/LeetCode/tree/master/0004-median-of-two-sorted-arrays) |
 <!---LeetCode Topics End-->
