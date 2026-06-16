@@ -15,6 +15,7 @@
 | [0141-linked-list-cycle](https://github.com/Tejash0/LeetCode/tree/master/0141-linked-list-cycle) |
 | [0143-reorder-list](https://github.com/Tejash0/LeetCode/tree/master/0143-reorder-list) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Tejash0/LeetCode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0567-permutation-in-string](https://github.com/Tejash0/LeetCode/tree/master/0567-permutation-in-string) |
 ## String
 |  |
 | ------- |
@@ -25,6 +26,7 @@
 | [0049-group-anagrams](https://github.com/Tejash0/LeetCode/tree/master/0049-group-anagrams) |
 | [0125-valid-palindrome](https://github.com/Tejash0/LeetCode/tree/master/0125-valid-palindrome) |
 | [0242-valid-anagram](https://github.com/Tejash0/LeetCode/tree/master/0242-valid-anagram) |
+| [0567-permutation-in-string](https://github.com/Tejash0/LeetCode/tree/master/0567-permutation-in-string) |
 ## Stack
 |  |
 | ------- |
@@ -74,6 +76,7 @@
 | [0217-contains-duplicate](https://github.com/Tejash0/LeetCode/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/Tejash0/LeetCode/tree/master/0242-valid-anagram) |
 | [0347-top-k-frequent-elements](https://github.com/Tejash0/LeetCode/tree/master/0347-top-k-frequent-elements) |
+| [0567-permutation-in-string](https://github.com/Tejash0/LeetCode/tree/master/0567-permutation-in-string) |
 ## Matrix
 |  |
 | ------- |
@@ -175,4 +178,5 @@
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Tejash0/LeetCode/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0567-permutation-in-string](https://github.com/Tejash0/LeetCode/tree/master/0567-permutation-in-string) |
 <!---LeetCode Topics End-->
