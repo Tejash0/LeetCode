@@ -15,6 +15,7 @@
 | [0141-linked-list-cycle](https://github.com/Tejash0/LeetCode/tree/master/0141-linked-list-cycle) |
 | [0143-reorder-list](https://github.com/Tejash0/LeetCode/tree/master/0143-reorder-list) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Tejash0/LeetCode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0287-find-the-duplicate-number](https://github.com/Tejash0/LeetCode/tree/master/0287-find-the-duplicate-number) |
 | [0567-permutation-in-string](https://github.com/Tejash0/LeetCode/tree/master/0567-permutation-in-string) |
 ## String
 |  |
@@ -60,6 +61,7 @@
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Tejash0/LeetCode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0217-contains-duplicate](https://github.com/Tejash0/LeetCode/tree/master/0217-contains-duplicate) |
 | [0238-product-of-array-except-self](https://github.com/Tejash0/LeetCode/tree/master/0238-product-of-array-except-self) |
+| [0287-find-the-duplicate-number](https://github.com/Tejash0/LeetCode/tree/master/0287-find-the-duplicate-number) |
 | [0347-top-k-frequent-elements](https://github.com/Tejash0/LeetCode/tree/master/0347-top-k-frequent-elements) |
 | [0739-daily-temperatures](https://github.com/Tejash0/LeetCode/tree/master/0739-daily-temperatures) |
 | [0792-binary-search](https://github.com/Tejash0/LeetCode/tree/master/0792-binary-search) |
@@ -98,6 +100,7 @@
 | [0033-search-in-rotated-sorted-array](https://github.com/Tejash0/LeetCode/tree/master/0033-search-in-rotated-sorted-array) |
 | [0035-search-insert-position](https://github.com/Tejash0/LeetCode/tree/master/0035-search-insert-position) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Tejash0/LeetCode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0287-find-the-duplicate-number](https://github.com/Tejash0/LeetCode/tree/master/0287-find-the-duplicate-number) |
 | [0792-binary-search](https://github.com/Tejash0/LeetCode/tree/master/0792-binary-search) |
 ## Design
 |  |
@@ -184,4 +187,8 @@
 | [0003-longest-substring-without-repeating-characters](https://github.com/Tejash0/LeetCode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0424-longest-repeating-character-replacement](https://github.com/Tejash0/LeetCode/tree/master/0424-longest-repeating-character-replacement) |
 | [0567-permutation-in-string](https://github.com/Tejash0/LeetCode/tree/master/0567-permutation-in-string) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0287-find-the-duplicate-number](https://github.com/Tejash0/LeetCode/tree/master/0287-find-the-duplicate-number) |
 <!---LeetCode Topics End-->
