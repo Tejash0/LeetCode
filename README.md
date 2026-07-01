@@ -68,6 +68,7 @@
 | [0739-daily-temperatures](https://github.com/Tejash0/LeetCode/tree/master/0739-daily-temperatures) |
 | [0792-binary-search](https://github.com/Tejash0/LeetCode/tree/master/0792-binary-search) |
 | [0883-car-fleet](https://github.com/Tejash0/LeetCode/tree/master/0883-car-fleet) |
+| [0907-koko-eating-bananas](https://github.com/Tejash0/LeetCode/tree/master/0907-koko-eating-bananas) |
 ## Hash Table
 |  |
 | ------- |
@@ -107,6 +108,7 @@
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Tejash0/LeetCode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0287-find-the-duplicate-number](https://github.com/Tejash0/LeetCode/tree/master/0287-find-the-duplicate-number) |
 | [0792-binary-search](https://github.com/Tejash0/LeetCode/tree/master/0792-binary-search) |
+| [0907-koko-eating-bananas](https://github.com/Tejash0/LeetCode/tree/master/0907-koko-eating-bananas) |
 ## Design
 |  |
 | ------- |
