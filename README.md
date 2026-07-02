@@ -29,6 +29,7 @@
 | [0242-valid-anagram](https://github.com/Tejash0/LeetCode/tree/master/0242-valid-anagram) |
 | [0424-longest-repeating-character-replacement](https://github.com/Tejash0/LeetCode/tree/master/0424-longest-repeating-character-replacement) |
 | [0567-permutation-in-string](https://github.com/Tejash0/LeetCode/tree/master/0567-permutation-in-string) |
+| [1023-time-based-key-value-store](https://github.com/Tejash0/LeetCode/tree/master/1023-time-based-key-value-store) |
 ## Stack
 |  |
 | ------- |
@@ -89,6 +90,7 @@
 | [0347-top-k-frequent-elements](https://github.com/Tejash0/LeetCode/tree/master/0347-top-k-frequent-elements) |
 | [0424-longest-repeating-character-replacement](https://github.com/Tejash0/LeetCode/tree/master/0424-longest-repeating-character-replacement) |
 | [0567-permutation-in-string](https://github.com/Tejash0/LeetCode/tree/master/0567-permutation-in-string) |
+| [1023-time-based-key-value-store](https://github.com/Tejash0/LeetCode/tree/master/1023-time-based-key-value-store) |
 ## Matrix
 |  |
 | ------- |
@@ -113,11 +115,13 @@
 | [0287-find-the-duplicate-number](https://github.com/Tejash0/LeetCode/tree/master/0287-find-the-duplicate-number) |
 | [0792-binary-search](https://github.com/Tejash0/LeetCode/tree/master/0792-binary-search) |
 | [0907-koko-eating-bananas](https://github.com/Tejash0/LeetCode/tree/master/0907-koko-eating-bananas) |
+| [1023-time-based-key-value-store](https://github.com/Tejash0/LeetCode/tree/master/1023-time-based-key-value-store) |
 ## Design
 |  |
 | ------- |
 | [0146-lru-cache](https://github.com/Tejash0/LeetCode/tree/master/0146-lru-cache) |
 | [0155-min-stack](https://github.com/Tejash0/LeetCode/tree/master/0155-min-stack) |
+| [1023-time-based-key-value-store](https://github.com/Tejash0/LeetCode/tree/master/1023-time-based-key-value-store) |
 ## Union-Find
 |  |
 | ------- |
