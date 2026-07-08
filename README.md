@@ -239,6 +239,7 @@
 | [0104-maximum-depth-of-binary-tree](https://github.com/Tejash0/LeetCode/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0110-balanced-binary-tree](https://github.com/Tejash0/LeetCode/tree/master/0110-balanced-binary-tree) |
 | [0226-invert-binary-tree](https://github.com/Tejash0/LeetCode/tree/master/0226-invert-binary-tree) |
+| [0230-kth-smallest-element-in-a-bst](https://github.com/Tejash0/LeetCode/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0543-diameter-of-binary-tree](https://github.com/Tejash0/LeetCode/tree/master/0543-diameter-of-binary-tree) |
 | [0572-subtree-of-another-tree](https://github.com/Tejash0/LeetCode/tree/master/0572-subtree-of-another-tree) |
 ## Depth-First Search
@@ -249,6 +250,7 @@
 | [0104-maximum-depth-of-binary-tree](https://github.com/Tejash0/LeetCode/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0110-balanced-binary-tree](https://github.com/Tejash0/LeetCode/tree/master/0110-balanced-binary-tree) |
 | [0226-invert-binary-tree](https://github.com/Tejash0/LeetCode/tree/master/0226-invert-binary-tree) |
+| [0230-kth-smallest-element-in-a-bst](https://github.com/Tejash0/LeetCode/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0543-diameter-of-binary-tree](https://github.com/Tejash0/LeetCode/tree/master/0543-diameter-of-binary-tree) |
 | [0572-subtree-of-another-tree](https://github.com/Tejash0/LeetCode/tree/master/0572-subtree-of-another-tree) |
 ## Breadth-First Search
@@ -265,6 +267,7 @@
 | [0104-maximum-depth-of-binary-tree](https://github.com/Tejash0/LeetCode/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0110-balanced-binary-tree](https://github.com/Tejash0/LeetCode/tree/master/0110-balanced-binary-tree) |
 | [0226-invert-binary-tree](https://github.com/Tejash0/LeetCode/tree/master/0226-invert-binary-tree) |
+| [0230-kth-smallest-element-in-a-bst](https://github.com/Tejash0/LeetCode/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0543-diameter-of-binary-tree](https://github.com/Tejash0/LeetCode/tree/master/0543-diameter-of-binary-tree) |
 | [0572-subtree-of-another-tree](https://github.com/Tejash0/LeetCode/tree/master/0572-subtree-of-another-tree) |
 ## Merge Sort
@@ -283,4 +286,5 @@
 |  |
 | ------- |
 | [0098-validate-binary-search-tree](https://github.com/Tejash0/LeetCode/tree/master/0098-validate-binary-search-tree) |
+| [0230-kth-smallest-element-in-a-bst](https://github.com/Tejash0/LeetCode/tree/master/0230-kth-smallest-element-in-a-bst) |
 <!---LeetCode Topics End-->
