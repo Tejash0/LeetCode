@@ -12,23 +12,17 @@
 
 class Solution {
 public:
+    int pre = 0; 
     TreeNode* buildTree(vector<int>& preorder, vector<int>& inorder) {
-        if(preorder.empty() || inorder.empty())return nullptr;
-        TreeNode* n = new TreeNode(preorder[0]);
-        auto it = find(inorder.begin(),inorder.end(),n->val);
-        int mid = distance(inorder.begin(),it);
-        if(mid != 0)
-        {
-            vector<int> left_pre(make_move_iterator(preorder.begin()+1),make_move_iterator(preorder.begin()+1+mid));
-            vector<int> left_in(make_move_iterator(inorder.begin()),make_move_iterator(inorder.begin()+mid));
-            n->left = buildTree(left_pre,left_in);
-        }
-        if(mid != preorder.size()-1)
-        {
-            vector<int> right_pre(make_move_iterator(preorder.begin()+1+mid),make_move_iterator(preorder.end()));
-            vector<int> right_in(make_move_iterator(inorder.begin()+mid+1),make_move_iterator(inorder.end()));
-            n->right = buildTree(right_pre,right_in);
-        }
-        return n;
+        return build(preorder,inorder,0,inorder.size()-1);
+    }
+    TreeNode* build(vector<int> preorder,vector<int> inorder,int l,int r)
+    {
+        if(l>r)return nullptr;
+        TreeNode* root = new TreeNode(preorder[pre]);
+        int mid = find(inorder.begin(),inorder.end(),preorder[pre++]) - inorder.begin();
+        root->left = build(preorder,inorder,l,mid-1);
+        root->right = build(preorder,inorder,mid+1,r);
+        return root;
     }
 };
