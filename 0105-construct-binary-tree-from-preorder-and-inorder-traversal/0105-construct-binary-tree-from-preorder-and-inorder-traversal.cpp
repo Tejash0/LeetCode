@@ -12,19 +12,19 @@
 
 class Solution {
 public:
-    int pre = 0; 
-    unordered_map<int,int> freq;
+    unordered_map<int,int> index;
+    int pre = 0;
     TreeNode* buildTree(vector<int>& preorder, vector<int>& inorder) {
-        for(int i = 0;i<inorder.size();i++)freq[inorder[i]] = i;
-        return build(preorder,inorder,0,inorder.size()-1);
+        for(int i = 0;i<inorder.size();i++)index[inorder[i]] = i;
+        return build(preorder,0,inorder.size()-1);
     }
-    TreeNode* build(vector<int> preorder,vector<int> inorder,int l,int r)
+    TreeNode* build(vector<int>& preorder,int li,int ri)
     {
-        if(l>r)return nullptr;
-        TreeNode* root = new TreeNode(preorder[pre]);
-        int mid = freq[preorder[pre++]];
-        root->left = build(preorder,inorder,l,mid-1);
-        root->right = build(preorder,inorder,mid+1,r);
-        return root;
+        if (li > ri) return nullptr;
+        TreeNode* n = new TreeNode(preorder[pre++]);
+        int mid = index[n->val];
+        n->left = build(preorder,li,mid-1);
+        n->right = build(preorder,mid+1,ri);
+        return n;
     }
 };
