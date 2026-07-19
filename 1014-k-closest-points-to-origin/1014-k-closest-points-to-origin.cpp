@@ -1,19 +1,14 @@
 class Solution {
 public:
+    static bool comp(vector<int> & a,vector<int>& b)
+    {
+        int d1 = a[0]*a[0] + a[1] * a[1];
+        int d2 = b[0]*b[0] + b[1] * b[1];
+        return d1 < d2;
+    }
     vector<vector<int>> kClosest(vector<vector<int>>& points, int k) {
-       priority_queue<pair<double,vector<int>>> max_heap;
-       for(vector<int> i:points)
-       {
-            double x = pow(i[0],2) + pow(i[1],2);
-            max_heap.push({x,i});
-            if(max_heap.size()>k)max_heap.pop();
-       }
-       vector<vector<int>> ans;
-        while(!max_heap.empty())
-        {
-            ans.push_back(max_heap.top().second);
-            max_heap.pop();
-        } 
-        return ans;   
+        nth_element(points.begin(),points.begin()+k,points.end(),comp);
+
+        return vector<vector<int>>(points.begin(),points.begin()+k);
     }
 };
