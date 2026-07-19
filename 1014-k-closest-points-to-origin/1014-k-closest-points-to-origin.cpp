@@ -9,11 +9,16 @@ public:
         int l = 0,r = points.size()-1;
         while(l<=r)
         {
+            int ran = l + rand() % (r - l + 1);
+            swap(points[ran],points[r]);
             int p = r;
-            if(j == p)
+            
+            while(j<=p)
+            {
+                if(j == p)
             {
                 swap(points[i],points[p]);
-                if(k == i)break;
+                if(k == i)return vector<vector<int>>(points.begin(),points.begin()+k);
                 else if(k < i)
                 {
                     r = i-1;
@@ -26,6 +31,7 @@ public:
                     l = i;
                     j = i;
                 }
+                break;  
             }
             else if(value(points[j]) < value(points[p]))
             {
@@ -36,6 +42,7 @@ public:
             else
             {
                 j++;
+            }
             }
         }
 
