@@ -5,7 +5,6 @@ public:
        for(vector<int> i:points)
        {
             double x = pow(i[0],2) + pow(i[1],2);
-            x = sqrt(x);
             max_heap.push({x,i});
             if(max_heap.size()>k)max_heap.pop();
        }
