@@ -5,9 +5,11 @@
         KthLargest(int k, vector<int>& nums) {
             x = k;
             for(int i : nums)
+            {
                 min_heap.push(i);
-            while(min_heap.size() > k)
+                if(min_heap.size() > k)
                 min_heap.pop();
+            }
         }
         int add(int val) {
             min_heap.push(val);
