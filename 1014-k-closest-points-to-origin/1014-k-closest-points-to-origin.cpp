@@ -1,13 +1,43 @@
 class Solution {
 public:
-    static bool comp(vector<int> & a,vector<int>& b)
+    int value(vector<int> & a)
     {
-        int d1 = a[0]*a[0] + a[1] * a[1];
-        int d2 = b[0]*b[0] + b[1] * b[1];
-        return d1 < d2;
+        return a[0]*a[0] + a[1] * a[1];
     }
     vector<vector<int>> kClosest(vector<vector<int>>& points, int k) {
-        nth_element(points.begin(),points.begin()+k,points.end(),comp);
+        int i = 0,j = 0;
+        int l = 0,r = points.size()-1;
+        while(l<=r)
+        {
+            int p = r;
+            if(j == p)
+            {
+                swap(points[i],points[p]);
+                if(k == i)break;
+                else if(k < i)
+                {
+                    r = i-1;
+                    i = l;
+                    j = l;
+                }
+                else
+                {
+                    i = i+1;
+                    l = i;
+                    j = i;
+                }
+            }
+            else if(value(points[j]) < value(points[p]))
+            {
+                swap(points[i],points[j]);
+                i++;
+                j++;
+            }
+            else
+            {
+                j++;
+            }
+        }
 
         return vector<vector<int>>(points.begin(),points.begin()+k);
     }
