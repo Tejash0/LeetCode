@@ -8,6 +8,6 @@ public:
             if(min_heap.size() > k)
             min_heap.pop();
         }
-        return min_heap.empty() ? 0:min_heap.top();
+        return min_heap.top();
     }
 };
