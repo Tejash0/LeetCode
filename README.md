@@ -73,6 +73,7 @@
 | [0239-sliding-window-maximum](https://github.com/Tejash0/LeetCode/tree/master/0239-sliding-window-maximum) |
 | [0287-find-the-duplicate-number](https://github.com/Tejash0/LeetCode/tree/master/0287-find-the-duplicate-number) |
 | [0347-top-k-frequent-elements](https://github.com/Tejash0/LeetCode/tree/master/0347-top-k-frequent-elements) |
+| [0621-task-scheduler](https://github.com/Tejash0/LeetCode/tree/master/0621-task-scheduler) |
 | [0739-daily-temperatures](https://github.com/Tejash0/LeetCode/tree/master/0739-daily-temperatures) |
 | [0792-binary-search](https://github.com/Tejash0/LeetCode/tree/master/0792-binary-search) |
 | [0883-car-fleet](https://github.com/Tejash0/LeetCode/tree/master/0883-car-fleet) |
@@ -98,6 +99,7 @@
 | [0347-top-k-frequent-elements](https://github.com/Tejash0/LeetCode/tree/master/0347-top-k-frequent-elements) |
 | [0424-longest-repeating-character-replacement](https://github.com/Tejash0/LeetCode/tree/master/0424-longest-repeating-character-replacement) |
 | [0567-permutation-in-string](https://github.com/Tejash0/LeetCode/tree/master/0567-permutation-in-string) |
+| [0621-task-scheduler](https://github.com/Tejash0/LeetCode/tree/master/0621-task-scheduler) |
 | [1023-time-based-key-value-store](https://github.com/Tejash0/LeetCode/tree/master/1023-time-based-key-value-store) |
 ## Matrix
 |  |
@@ -148,6 +150,7 @@
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/Tejash0/LeetCode/tree/master/0011-container-with-most-water) |
+| [0621-task-scheduler](https://github.com/Tejash0/LeetCode/tree/master/0621-task-scheduler) |
 ## Sorting
 |  |
 | ------- |
@@ -158,6 +161,7 @@
 | [0217-contains-duplicate](https://github.com/Tejash0/LeetCode/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/Tejash0/LeetCode/tree/master/0242-valid-anagram) |
 | [0347-top-k-frequent-elements](https://github.com/Tejash0/LeetCode/tree/master/0347-top-k-frequent-elements) |
+| [0621-task-scheduler](https://github.com/Tejash0/LeetCode/tree/master/0621-task-scheduler) |
 | [0883-car-fleet](https://github.com/Tejash0/LeetCode/tree/master/0883-car-fleet) |
 | [1014-k-closest-points-to-origin](https://github.com/Tejash0/LeetCode/tree/master/1014-k-closest-points-to-origin) |
 ## Dynamic Programming
@@ -211,6 +215,7 @@
 | [0215-kth-largest-element-in-an-array](https://github.com/Tejash0/LeetCode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0239-sliding-window-maximum](https://github.com/Tejash0/LeetCode/tree/master/0239-sliding-window-maximum) |
 | [0347-top-k-frequent-elements](https://github.com/Tejash0/LeetCode/tree/master/0347-top-k-frequent-elements) |
+| [0621-task-scheduler](https://github.com/Tejash0/LeetCode/tree/master/0621-task-scheduler) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/Tejash0/LeetCode/tree/master/0789-kth-largest-element-in-a-stream) |
 | [1014-k-closest-points-to-origin](https://github.com/Tejash0/LeetCode/tree/master/1014-k-closest-points-to-origin) |
 | [1127-last-stone-weight](https://github.com/Tejash0/LeetCode/tree/master/1127-last-stone-weight) |
@@ -222,6 +227,7 @@
 |  |
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/Tejash0/LeetCode/tree/master/0347-top-k-frequent-elements) |
+| [0621-task-scheduler](https://github.com/Tejash0/LeetCode/tree/master/0621-task-scheduler) |
 ## Quickselect
 |  |
 | ------- |
